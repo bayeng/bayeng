@@ -2,7 +2,7 @@
 
 I am Bayu Krisna, people call me Bayu, a recent computer science graduate from Universitas Muhammadiyah Jember. I am a Backend Engineer, but I am now learning to be fullstack developer. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-bayukrisna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
@@ -22,7 +22,7 @@ I am Bayu Krisna, people call me Bayu, a recent computer science graduate from U
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bayeng&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayeng&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bayeng.bayeng)
