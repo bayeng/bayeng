@@ -9,7 +9,7 @@ I am Bayu Krisna, people call me Bayu, a recent computer science graduate from U
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![GO]([https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://img.shields.io/badge/-golang-black?style=flat-square&logo=go)
+![GO](https://img.shields.io/badge/-golang-black?style=flat-square&logo=go)
 ![PHP].(https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
