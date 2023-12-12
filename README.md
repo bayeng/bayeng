@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Bayu Krisna, people call me Bayu, a recent computer science graduate from Universitas Muhammadiyah Jember. I am a Backend Engineer, but I am now learning to be fullstack developer. Feel free to connect with me here: 
+I am Bayu Krisna, people call me Bayu, a recent computer science graduate from Universitas Muhammadiyah Jember. I am a Backend Engineer. Feel free to connect with me here: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-bayukrisna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayu-krisna-a38a10229/)](https://www.linkedin.com/in/bayu-krisna-a38a10229/)
 [![Instagram Badge](https://img.shields.io/badge/-bayengineer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bayengineer_/)](https://www.instagram.com/bayengineer_/)
