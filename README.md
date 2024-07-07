@@ -3,7 +3,7 @@
 I am Bayu Krisna, people call me Bayu, a recent computer science graduate from Universitas Muhammadiyah Jember. I am a Backend Engineer. Feel free to connect with me here: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-bayukrisna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayu-krisna-a38a10229/)](https://www.linkedin.com/in/bayu-krisna-a38a10229/)
-[![Instagram Badge](https://img.shields.io/badge/-bayengineer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bayengineer_/)](https://www.instagram.com/bayengineer_/)
+[![Instagram Badge](https://img.shields.io/badge/-baykrisna_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/baykrisna__/)](https://www.instagram.com/bayengineer_/)
 [![Gmail Badge](https://img.shields.io/badge/-bayurollins.87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bayurollins.87@gmail.com)](mailto:bayurollins.87@gmail.com)
 
 ## ⚡ Technologies
